@@ -1,5 +1,7 @@
 # Bootstrapped Model Predictive Control
 
+**(Feb 2025) Announcement: BMPC has been accepted at ICLR 2025! Visit https://github.com/wertyuilife2/bmpc for the de-anonytmized and actively maintained repository.**
+
 ----
 
 *This repo is anonymized in compliance with ICLR 2025 submission guidelines.*
